@@ -1,0 +1,14 @@
+li {
+  padding: 5px;
+}
+
+li a {
+  color: blue;
+  padding: 55px;
+  line-height: 14px;
+  font-weight: bold;
+}
+
+body {
+    background: whitesmoke url("images/background.gif") no-repeat center;
+}
